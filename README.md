@@ -63,3 +63,6 @@ Example:
   ```
   python launcher.py --exp_type=test --simu_len=50 --num_ex=10 --pg_re=data/pg_re_1600.pkl --unseen=True
   ```
+
+***Need to change some settings in current version of Theano***
+[Reference](https://blog.csdn.net/xiaoxiaojie521/article/details/90261863)
