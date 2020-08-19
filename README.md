@@ -66,4 +66,4 @@ Example:
 
 ***Need to change some settings in current version of Theano***
 
-[Reference](https://blog.csdn.net/xiaoxiaojie521/article/details/90261863)
+- [Reference](https://blog.csdn.net/xiaoxiaojie521/article/details/90261863)
